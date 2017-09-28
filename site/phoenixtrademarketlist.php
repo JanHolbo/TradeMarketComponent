@@ -2,7 +2,7 @@
 /**
  * Phoenix BSE Trade Market List component
  * @package     Joomla.Administrator
- * @subpackage  com_trademarketlist
+ * @subpackage  com_phoenixtrademarketlist
  *
  * @copyright   Copyright (C) 2005 - 2016 Open Source Matters, Inc. All rights reserved.
  * @copyright   Copyright (C) 2017 -      Jan Holbo Rasmussen. All rights reserved.
