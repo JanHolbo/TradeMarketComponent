@@ -1,7 +1,7 @@
 <?php
 /**
  * @package     Joomla.Administrator
- * @subpackage  com_trademarketlist
+ * @subpackage  com_phoenixtrademarketlist
  *
  * @copyright   Copyright (C) 2005 - 2016 Open Source Matters, Inc. All rights reserved.
  * @copyright   Copyright (C) 2017 -      Jan Holbo Rasmussen. All rights reserved.
@@ -14,6 +14,6 @@ defined('_JEXEC') or die('Restricted access');
  *
  * @since  0.0.1
  */
-class TradeMarketListController extends JControllerLegacy
+class PhoenixTradeMarketListController extends JControllerLegacy
 {
 }
